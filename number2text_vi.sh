@@ -22,20 +22,6 @@ list_one=$(cat << EOF
 EOF
 )
 
-list_two=$(cat << EOF
-0 mươi
-1 mốt
-2 hai
-3 ba
-4 bốn
-5 lăm
-6 sáu
-7 bảy
-8 tám
-9 chín
-EOF
-)
-
 leng_num=$(cat << EOF
 2 mươi
 3 trăm
